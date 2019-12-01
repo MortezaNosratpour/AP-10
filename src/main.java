@@ -1,7 +1,6 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("hello wolrd!!!");
-        System.out.println("bn");
+        System.out.println("start project");
     }
 }
